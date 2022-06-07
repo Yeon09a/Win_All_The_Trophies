@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore Asset Store file
+Assets/Image/
+Assets/Image.meta
