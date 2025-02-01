@@ -14,7 +14,7 @@
 ### 게임 특징
 * 귀여운 캐릭터와 다양한 몬스터의 전투
   * 귀여운 캐릭터를 조작하면서 여러 종류의 몬스터와 전투를 즐길 수 있습니다.
-  <br/><img width="50%" src="hhttps://github.com/user-attachments/assets/e6188484-fb74-4000-8fa2-54f491866f95"/><img width="50%" src="https://github.com/user-attachments/assets/2a8fa887-1928-47d8-973e-2864d147f16b"/>
+  <br/><img width="50%" src="https://github.com/user-attachments/assets/e6188484-fb74-4000-8fa2-54f491866f95"/><img width="50%" src="https://github.com/user-attachments/assets/2a8fa887-1928-47d8-973e-2864d147f16b"/>
 * 맵 이곳저곳에 숨겨진 트로피
   * 맵에 숨겨진 트로피를 찾으면서 맵을 즐길 수 있습니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/c9163176-c719-4c2f-aa98-760b5f6e9d24"/><img width="50%" src="https://github.com/user-attachments/assets/7dd78448-97a8-4db5-928f-26c9da270514"/>
