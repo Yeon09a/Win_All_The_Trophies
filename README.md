@@ -19,6 +19,7 @@
   * 맵에 숨겨진 트로피를 찾으면서 맵을 즐길 수 있습니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/c9163176-c719-4c2f-aa98-760b5f6e9d24"/><img width="50%" src="https://github.com/user-attachments/assets/7dd78448-97a8-4db5-928f-26c9da270514"/>
 ## 프로젝트 개요
+🔗자세한 내용은 Notion에서 확인하실 수 있으십니다.    [<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>](https://www.notion.so/Win_All_The_Trophies-178b66b96b778005ad0ed3344085cfed?pvs=4)
 ### 개발 기간
 * 2021.05 - 2021.06 (약 1개월)
 ### 개발 환경
